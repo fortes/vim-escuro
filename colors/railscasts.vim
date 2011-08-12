@@ -118,7 +118,7 @@ hi WildMenu                  guifg=Black   guibg=#ffff00 gui=bold cterm=bold
 hi Directory                 none
 hi link Directory            Identifier
 
-hi Folded                    guifg=#F6F3E8 guibg=#444444 gui=NONE ctermbg=238 ctermfg=White cterm=NONE
+hi Folded                    guifg=#585858 guibg=#1c1c1c gui=NONE ctermbg=234 ctermfg=240 cterm=NONE
 hi FoldColumn                none
 hi link FoldColumn           Folded
 
