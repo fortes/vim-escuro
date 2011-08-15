@@ -50,7 +50,7 @@ hi Normal                    guifg=#E6E1DC guibg=#141414 ctermfg=254 ctermbg=NON
 hi Cursor                    guifg=#000000 ctermfg=0     guibg=#FFFFFF ctermbg=15
 hi CursorLine                guibg=#242424 guifg=NONE    gui=NONE ctermfg=NONE  ctermbg=234 cterm=NONE
 hi CursorCol                 guibg=#333333 guifg=NONE
-hi StatusLine                guifg=Black   guibg=#aabbee gui=bold ctermfg=Black ctermbg=153 cterm=bold
+hi StatusLine                guifg=#444444 guibg=#cccccc gui=bold ctermfg=233   ctermbg=246 cterm=bold
 hi StatusLineNC              guifg=#444444 guibg=#aaaaaa gui=none ctermfg=233   ctermbg=237 cterm=none
 hi VertSplit                 guifg=Black   guibg=#aabbee gui=bold ctermfg=237   ctermbg=237 cterm=none
 
