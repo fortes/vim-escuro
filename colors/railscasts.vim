@@ -127,4 +127,5 @@ hi PmenuSel                  guifg=#000000 guibg=#A5C261 gui=NONE ctermbg=150 ct
 hi PMenuSbar                 guibg=#5A647E gui=NONE ctermbg=66  cterm=NONE
 hi PMenuThumb                guibg=#AAAAAA gui=NONE ctermbg=248 cterm=NONE
 
-hi LongLine                  guibg=#444444 ctermbg=235
+" Vim 7.3+
+hi ColorColumn               guibg=#444444 ctermbg=235
